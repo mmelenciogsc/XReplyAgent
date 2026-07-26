@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,500
+The admin walkthrough begins with a brief public guest view in portrait.
+
+2
+00:00:04,500 --> 00:00:10,000
+The sign-in screen appears, then the demo admin enters the workspace.
+
+3
+00:00:10,000 --> 00:00:18,000
+The portrait admin dashboard opens with review and audit surfaces in view.
+
+4
+00:00:18,000 --> 00:00:26,000
+The reply set is reviewed and publication state is confirmed.
+
+5
+00:00:26,000 --> 00:00:34,000
+Monitoring and recent activity remain visible in a compact layout.
+
+6
+00:00:34,000 --> 00:00:40,000
+The mobile admin flow stays clear, structured, and ready for client review.

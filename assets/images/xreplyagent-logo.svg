@@ -1,0 +1,32 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">XReplyAgent robot mask logo</title>
+  <desc id="desc">A compact geometric robot mask emblem with restrained teal and amber highlights.</desc>
+  <defs>
+    <linearGradient id="frame" x1="20" y1="14" x2="108" y2="114" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7F3EE"/>
+      <stop offset="0.45" stop-color="#8ED2CC"/>
+      <stop offset="1" stop-color="#DDB97E"/>
+    </linearGradient>
+    <linearGradient id="mask" x1="24" y1="22" x2="102" y2="106" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101821"/>
+      <stop offset="1" stop-color="#060B11"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="40" y1="42" x2="88" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFF6F1" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#A3E1DA" stop-opacity="0.84"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 12 L100 26 L112 60 L102 98 L64 116 L26 98 L16 60 L28 26 Z" fill="url(#mask)" stroke="url(#frame)" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M64 20 L92 31 L100 60 L92 89 L64 100 L36 89 L28 60 L36 31 Z" fill="#0C131B" stroke="rgba(255,255,255,0.10)" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M32 39 L44 31 L58 27 L50 43 L35 50 Z" fill="rgba(143, 210, 204, 0.14)"/>
+  <path d="M96 39 L84 31 L70 27 L78 43 L93 50 Z" fill="rgba(221, 185, 126, 0.12)"/>
+  <path d="M31 63 L45 56 L53 63 L46 71 L32 68 Z" fill="url(#glass)" opacity="0.92"/>
+  <path d="M97 63 L83 56 L75 63 L82 71 L96 68 Z" fill="url(#glass)" opacity="0.92"/>
+  <path d="M44 82 L64 90 L84 82" stroke="url(#frame)" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 62 L64 55 L74 62" stroke="rgba(255,255,255,0.18)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 56 V84" stroke="rgba(255,255,255,0.18)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M24 52 L40 58" stroke="rgba(255,255,255,0.10)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M104 52 L88 58" stroke="rgba(255,255,255,0.10)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M39 93 L52 81" stroke="rgba(255,255,255,0.10)" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M89 93 L76 81" stroke="rgba(255,255,255,0.10)" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

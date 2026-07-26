@@ -1,0 +1,29 @@
+1
+00:00:01,500 --> 00:00:05,199
+Guest View
+Public Shell
+
+2
+00:00:07,699 --> 00:00:11,802
+Sign In
+Branded Entry
+
+3
+00:00:14,302 --> 00:00:19,086
+Workspace
+Live Overview
+
+4
+00:00:21,586 --> 00:00:24,604
+Review Queue
+Candidate Review
+
+5
+00:00:27,104 --> 00:00:31,792
+Publish
+Browser Launch
+
+6
+00:00:34,292 --> 00:00:39,183
+Monitor
+Live Tracking

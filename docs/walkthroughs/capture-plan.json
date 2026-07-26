@@ -1,0 +1,38 @@
+{
+  "project": "XReplyAgent walkthroughs",
+  "voice": "restrained female Marin-style neural TTS",
+  "audio": {
+    "ambient_bed": true,
+    "ui_sounds": ["tap", "swipe", "expand", "collapse", "click"]
+  },
+  "targets": [
+    {
+      "name": "customer_desktop",
+      "kind": "video",
+      "viewport": "2560x1440",
+      "orientation": "landscape",
+      "output": "customer_experience_desktop.mp4"
+    },
+    {
+      "name": "customer_mobile",
+      "kind": "video",
+      "viewport": "430x932",
+      "orientation": "portrait",
+      "output": "customer_experience_mobile.mp4"
+    },
+    {
+      "name": "admin_desktop",
+      "kind": "video",
+      "viewport": "2560x1440",
+      "orientation": "landscape",
+      "output": "admin_experience_desktop.mp4"
+    },
+    {
+      "name": "admin_mobile",
+      "kind": "video",
+      "viewport": "430x932",
+      "orientation": "portrait",
+      "output": "admin_experience_mobile.mp4"
+    }
+  ]
+}

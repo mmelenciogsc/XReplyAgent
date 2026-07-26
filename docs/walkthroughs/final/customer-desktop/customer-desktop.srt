@@ -1,0 +1,29 @@
+1
+00:00:01,500 --> 00:00:06,603
+Guest View
+Public Shell
+
+2
+00:00:09,103 --> 00:00:13,461
+Sign In
+Branded Entry
+
+3
+00:00:15,961 --> 00:00:20,745
+Workspace
+Live Overview
+
+4
+00:00:23,245 --> 00:00:26,997
+Analyze
+Live Post Review
+
+5
+00:00:29,497 --> 00:00:34,281
+Replies
+Score And Rationale
+
+6
+00:00:36,781 --> 00:00:40,055
+History
+Follow-Up View

@@ -1,0 +1,229 @@
+{
+  "project": "XReplyAgent walkthrough pairs",
+  "created_at": "2026-07-26 20:13:05 +0800",
+  "base_url": "https://audsnaps.ariadev.tools/apps/xreplyagent/",
+  "auth_url": "https://audsnaps.ariadev.tools/apps/xreplyagent/?xra_view=auth",
+  "admin_url": "https://audsnaps.ariadev.tools/apps/xreplyagent/?xra_view=admin",
+  "flows": [
+    {
+      "name": "customer-desktop",
+      "title": "Customer Experience Walkthrough",
+      "viewport": "2560x1440",
+      "url": "https://audsnaps.ariadev.tools/apps/xreplyagent/",
+      "is_admin": false,
+      "duration_seconds": 93.88,
+      "video": "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/customer-desktop.mp4",
+      "screenshots": [
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/01-guest.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/02-auth.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/03-overview.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/04-analyze-form.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/05-results.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-desktop/screenshots/06-history.png"
+      ],
+      "steps": [
+        {
+          "name": "guest",
+          "screenshot": "01-guest.png",
+          "note": "Public guest view is open.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "auth",
+          "screenshot": "02-auth.png",
+          "note": "The branded sign-in shell appears.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "overview",
+          "screenshot": "03-overview.png",
+          "note": "The demo user enters the workspace.",
+          "hold_seconds": 3.2
+        },
+        {
+          "name": "analyze-form",
+          "screenshot": "04-analyze-form.png",
+          "note": "The customer review form is ready.",
+          "hold_seconds": 3.0
+        },
+        {
+          "name": "results",
+          "screenshot": "05-results.png",
+          "note": "Three reply candidates appear with scores.",
+          "hold_seconds": 4.0
+        },
+        {
+          "name": "history",
+          "screenshot": "06-history.png",
+          "note": "History and analytics remain visible for follow-up.",
+          "hold_seconds": 3.2
+        }
+      ]
+    },
+    {
+      "name": "customer-mobile",
+      "title": "Customer Experience Walkthrough",
+      "viewport": "430x932",
+      "url": "https://audsnaps.ariadev.tools/apps/xreplyagent/",
+      "is_admin": false,
+      "duration_seconds": 48.0,
+      "video": "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/customer-mobile.mp4",
+      "screenshots": [
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/01-guest.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/02-auth.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/03-overview.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/04-analyze-form.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/05-results.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/customer-mobile/screenshots/06-history.png"
+      ],
+      "steps": [
+        {
+          "name": "guest",
+          "screenshot": "01-guest.png",
+          "note": "Public guest view is open.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "auth",
+          "screenshot": "02-auth.png",
+          "note": "The branded sign-in shell appears.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "overview",
+          "screenshot": "03-overview.png",
+          "note": "The demo user enters the workspace.",
+          "hold_seconds": 3.2
+        },
+        {
+          "name": "analyze-form",
+          "screenshot": "04-analyze-form.png",
+          "note": "The customer review form is ready.",
+          "hold_seconds": 3.0
+        },
+        {
+          "name": "results",
+          "screenshot": "05-results.png",
+          "note": "Three reply candidates appear with scores.",
+          "hold_seconds": 4.0
+        },
+        {
+          "name": "history",
+          "screenshot": "06-history.png",
+          "note": "History and analytics remain visible for follow-up.",
+          "hold_seconds": 3.2
+        }
+      ]
+    },
+    {
+      "name": "admin-desktop",
+      "title": "Admin Experience Walkthrough",
+      "viewport": "2560x1440",
+      "url": "https://audsnaps.ariadev.tools/apps/xreplyagent/",
+      "is_admin": true,
+      "duration_seconds": 90.82,
+      "video": "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/admin-desktop.mp4",
+      "screenshots": [
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/01-guest.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/02-auth.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/03-overview.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/04-review-queue.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/05-browser-panel.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-desktop/screenshots/06-analytics.png"
+      ],
+      "steps": [
+        {
+          "name": "guest",
+          "screenshot": "01-guest.png",
+          "note": "The public guest view appears briefly.",
+          "hold_seconds": 2.6
+        },
+        {
+          "name": "auth",
+          "screenshot": "02-auth.png",
+          "note": "The admin sign-in shell is ready.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "overview",
+          "screenshot": "03-overview.png",
+          "note": "The admin workspace opens in the branded shell.",
+          "hold_seconds": 3.0
+        },
+        {
+          "name": "review-queue",
+          "screenshot": "04-review-queue.png",
+          "note": "The review queue and reply cards are visible.",
+          "hold_seconds": 3.4
+        },
+        {
+          "name": "browser",
+          "screenshot": "05-browser-panel.png",
+          "note": "The browser panel tracks the live publish monitor.",
+          "hold_seconds": 4.2
+        },
+        {
+          "name": "analytics",
+          "screenshot": "06-analytics.png",
+          "note": "Metrics and patterns remain visible for review.",
+          "hold_seconds": 3.0
+        }
+      ]
+    },
+    {
+      "name": "admin-mobile",
+      "title": "Admin Experience Walkthrough",
+      "viewport": "430x932",
+      "url": "https://audsnaps.ariadev.tools/apps/xreplyagent/",
+      "is_admin": true,
+      "duration_seconds": 52.18,
+      "video": "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/admin-mobile.mp4",
+      "screenshots": [
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/01-guest.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/02-auth.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/03-overview.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/04-review-queue.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/05-browser-panel.png",
+        "/home/marx/driveB/BLACKOUT/wp-content/plugins/xreplyagent/docs/walkthroughs/generated/admin-mobile/screenshots/06-analytics.png"
+      ],
+      "steps": [
+        {
+          "name": "guest",
+          "screenshot": "01-guest.png",
+          "note": "The public guest view appears briefly.",
+          "hold_seconds": 2.6
+        },
+        {
+          "name": "auth",
+          "screenshot": "02-auth.png",
+          "note": "The admin sign-in shell is ready.",
+          "hold_seconds": 2.8
+        },
+        {
+          "name": "overview",
+          "screenshot": "03-overview.png",
+          "note": "The admin workspace opens in the branded shell.",
+          "hold_seconds": 3.0
+        },
+        {
+          "name": "review-queue",
+          "screenshot": "04-review-queue.png",
+          "note": "The review queue and reply cards are visible.",
+          "hold_seconds": 3.4
+        },
+        {
+          "name": "browser",
+          "screenshot": "05-browser-panel.png",
+          "note": "The browser panel tracks the live publish monitor.",
+          "hold_seconds": 4.2
+        },
+        {
+          "name": "analytics",
+          "screenshot": "06-analytics.png",
+          "note": "Metrics and patterns remain visible for review.",
+          "hold_seconds": 3.0
+        }
+      ]
+    }
+  ]
+}

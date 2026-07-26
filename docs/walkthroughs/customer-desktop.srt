@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:05,000
+XReplyAgent opens on the public guest view before sign-in.
+
+2
+00:00:05,000 --> 00:00:11,000
+The guest can open recent posts and review reply sets without logging in.
+
+3
+00:00:11,000 --> 00:00:18,000
+The sign-in screen appears, then the demo user enters the authenticated workspace.
+
+4
+00:00:18,000 --> 00:00:26,000
+A live X post URL is analyzed and the three reply candidates appear with scores and rationale.
+
+5
+00:00:26,000 --> 00:00:34,000
+One reply is edited and kept ready for review.
+
+6
+00:00:34,000 --> 00:00:42,000
+History and analytics stay visible for follow-up.
+
+7
+00:00:42,000 --> 00:00:48,000
+The customer experience remains clean, readable, and ready for review.
