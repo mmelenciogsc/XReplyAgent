@@ -36,15 +36,15 @@ Demo credentials:
 
 ### Admin Desktop
 
-![XReplyAgent admin desktop guest view](docs/walkthroughs/generated/admin-desktop/screenshots/01-guest.png)
-![XReplyAgent admin desktop review queue](docs/walkthroughs/generated/admin-desktop/screenshots/04-review-queue.png)
-![XReplyAgent admin desktop browser panel](docs/walkthroughs/generated/admin-desktop/screenshots/05-browser-panel.png)
+![XReplyAgent admin desktop settings surface](docs/walkthroughs/generated/admin-desktop/screenshots/01-guest.png)
+![XReplyAgent admin desktop audit trail](docs/walkthroughs/generated/admin-desktop/screenshots/02-auth.png)
+![XReplyAgent admin desktop error log](docs/walkthroughs/generated/admin-desktop/screenshots/03-overview.png)
 
 ### Admin Mobile
 
-![XReplyAgent admin mobile guest view](docs/walkthroughs/generated/admin-mobile/screenshots/01-guest.png)
-![XReplyAgent admin mobile review queue](docs/walkthroughs/generated/admin-mobile/screenshots/04-review-queue.png)
-![XReplyAgent admin mobile browser panel](docs/walkthroughs/generated/admin-mobile/screenshots/05-browser-panel.png)
+![XReplyAgent admin mobile settings surface](docs/walkthroughs/generated/admin-mobile/screenshots/01-guest.png)
+![XReplyAgent admin mobile audit trail](docs/walkthroughs/generated/admin-mobile/screenshots/02-auth.png)
+![XReplyAgent admin mobile error log](docs/walkthroughs/generated/admin-mobile/screenshots/03-overview.png)
 
 ## Design Direction
 

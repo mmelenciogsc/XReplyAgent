@@ -17,7 +17,7 @@ Style:
 - Ambient bed underneath the voice track
 - Screen-capture only, no synthetic b-roll
 - Customer flows begin on the public guest view before sign-in and end with analysis, ranked replies, history, and analytics
-- Admin flows may briefly show the public guest view before sign-in and continue through review, publishing, and browser monitoring
+- Admin flows begin on admin-only surfaces and continue through review, publishing, and browser monitoring
 
 Final assets:
 
